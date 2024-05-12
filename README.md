@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 --App for ordering a food:https://github.com/Nuraiuki/Tez_food1
 <br/>
 --Telegram-bot Delo for finding a job:https://github.com/Nuraiuki/DeloBot.git
+<br/>
 --Bakery platform:https://github.com/Nuraiuki/bakery.git
+<br/>
 --Chess platform:https://github.com/Nuraiuki/chess.git
+<br/>
 --Study:https://github.com/Nuraiuki/Study.git
 
