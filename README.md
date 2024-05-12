@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My current public projects:
---English learner platform: https://github.com/Nuraiuki/English_Learner
+--English learner app: https://github.com/Nuraiuki/English_Learner
+--App for ordering a food:
+--Telegram-bot Delo for finding a job:
+
