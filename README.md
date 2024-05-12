@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <br/>
 --App for ordering a food:https://github.com/Nuraiuki/Tez_food1
 <br/>
---Telegram-bot Delo for finding a job:
+--Telegram-bot Delo for finding a job:https://github.com/Nuraiuki/DeloBot.git
 
