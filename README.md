@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My current public projects:
+--Spoty Desktop app: https://github.com/Nuraiuki/Spoty.git
 --English learner app: https://github.com/Nuraiuki/English_Learner
 <br/>
 --App for ordering food:https://github.com/Nuraiuki/Tez_food1
